@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meridianplumbingco.com/sitemap.xml
